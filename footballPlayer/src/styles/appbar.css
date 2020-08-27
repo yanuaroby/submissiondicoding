@@ -1,0 +1,15 @@
+app-bar {
+    font-size: 30px;
+    display: block;
+    color: lightcoral;
+    text-shadow: 2px 2px black;
+    font-weight: bold;    
+    text-align: left;
+    padding-top: 20px;
+    /*background-color: teal*/
+    background-image: url(../images/The-GOAT-main-slide-01-1080x675.jpg);
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
